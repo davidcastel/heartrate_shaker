@@ -11,4 +11,5 @@ export default defineConfig({
 	server: {
 		https: true, // 3. Enable HTTPS in the dev server configuration
 	},
+	base: "/heartrate_shaker/",
 });
